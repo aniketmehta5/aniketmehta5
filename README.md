@@ -93,7 +93,7 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
 
 ---
 
-[![Visit Count](https://komarev.com/ghpvc/?username=aniketmehta5&color=blueviolet)](https://github.com/mriganshu16)
+[![Visit Count](https://komarev.com/ghpvc/?username=aniketmehta5&color=blueviolet)](https://github.com/aniketmehta5)
 
 
 ---
