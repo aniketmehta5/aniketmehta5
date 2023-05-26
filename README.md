@@ -84,9 +84,9 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
 <!--END_SECTION:activity-->
 
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo -->
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=aniketmehta5&limit=5&theme=dark&bg_color=0D1117&text_color=EEF0F1&title_color=58A6FF&hide_border=true&border_color=58A6FF&border_radius=10&combine_all_yearly_contributions=true)
+<!-- ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=aniketmehta5&limit=5&theme=dark&bg_color=0D1117&text_color=EEF0F1&title_color=58A6FF&hide_border=true&border_color=58A6FF&border_radius=10&combine_all_yearly_contributions=true) -->
 
 
 
